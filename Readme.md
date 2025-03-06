@@ -23,8 +23,7 @@ ya que de normal son de 3 o 4 hojas que, el de cuatro representa poder y riqueza
 es donde habitan los demonios, de los grimorios salen las habilidades y poderes que se desarrollan a lo largo
 del videojuego peor al en vez de salir hechizos le sale una espada vieja y fea...
 
-<img src="./img_2.png" width="25%">
-<img src="./img_3.png" width="25%">
+<img src="./img_2.png" width="25%"> <img src="./img_3.png" width="25%">
 
 La aldea en la que vive asta, representa el fondo de la imagen inicial.
 

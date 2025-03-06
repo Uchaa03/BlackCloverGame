@@ -23,16 +23,16 @@ ya que de normal son de 3 o 4 hojas que, el de cuatro representa poder y riqueza
 es donde habitan los demonios, de los grimorios salen las habilidades y poderes que se desarrollan a lo largo
 del videojuego peor al en vez de salir hechizos le sale una espada vieja y fea...
 
-<img src="./img_2.png" width="25%"> <img src="./img_3.png" width="25%">
+<img src="assets/img/img_2.png" width="25%"> <img src="assets/img/img_3.png" width="25%">
 
 La aldea en la que vive asta, representa el fondo de la imagen inicial.
 
-<img src="./img.png" width="100%">
+<img src="assets/img/img.png" width="100%">
 
 Y la idea es que en la plataforma aparezca el y ahi empezaría lo que es a contarse la historia inicial, una
 vez se cuenta la historia inical pues que el personaje empiece a moverse a la aldea donde le dan su grimorio.
 
-<img src="./img_1.png" width="100%">
+<img src="assets/img/img_1.png" width="100%">
 
 Su objetivo como comente es luchar contra el mal y convertirse en rey mago entrando en una asociación de 
 caballeros, mejorando y nunca rindiéndose.
@@ -49,7 +49,7 @@ el personaje tendrá que enfrentarse a diversos retos y enemigos.
 - Crearemos al menos una plataforma la inicial en la que empieza la historia del videojuego.
 - Y el título será el trébol de 5 hojas que representa al anime y al personaje protagonista.
 
-<img src="./img_4.png" width="25%">
+<img src="assets/img/img_4.png" width="25%">
 
 
 Hablaremos sobre como hemos desarrollado el personaje poco a poco, con la herramienta utilizada.
